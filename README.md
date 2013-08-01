@@ -15,7 +15,9 @@ https://github.com/Linrstudio/IEOldF12/tree/master/download
 ##操作方法
 
 ###切换到 旧版F12
-双击运行 IEOldF12 后，请点击右侧箭头图标，即可切换到 旧版开发人员工具。切换后，需要重启浏览器，您可以点击主界面的“启动 IE”来快速重启。
+双击运行 IEOldF12 后，请点击右侧箭头图标，即可切换到 旧版开发人员工具。切换后，需要重启浏览器，您可以点击主界面的“启动 IE”来快速重启。既可看到旧版开发工具闪一下，消失了，说明切换成功，这时您可以进入您想调试的页面了，点击箭头工具，既可开启，如下图：
+
+<img src="https://github.com/Linrstudio/IEOldF12/blob/master/ie11.png?raw=true" />
 
 
 ###切换到 新版F12
