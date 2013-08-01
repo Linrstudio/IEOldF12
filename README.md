@@ -22,5 +22,9 @@ https://github.com/Linrstudio/IEOldF12/tree/master/download
 ###切换到新版F12 (New)
 在 IE11 网页中点右键，选择“检查元素”即可切换到 新版F12 工具。
 
+###系统要求 system require
+* Windows 7 IE11 pre
+* Windows 8.1 IE11 pre
+
 ####参考资料（感谢） Thanks
 http://stackoverflow.com/questions/17871124/how-to-bring-back-browser-mode-in-ie11/17877416#17877416
