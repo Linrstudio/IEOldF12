@@ -15,7 +15,7 @@ https://github.com/Linrstudio/IEOldF12/tree/master/download
 ##操作方法 how-to
 
 ###切换到旧版F12 (Old)
-运行 IEOldF12 后，点击右边箭头图标，即可切换到旧版开发工具。切换后，点击主界面上的“启动 IE”重启IE。既可看到旧版开发工具闪一下，然后消失了，说明切换成功，这时您可以进入您想调试的页面了。如下图：
+运行 IEOldF12 后，点击右边箭头图标，即可切换到旧版开发工具。切换后，点击主界面上的“启动 IE”。既可看到旧版开发工具，这时您可以进入您想调试的页面了。如下图：
 
 <img src="https://github.com/Linrstudio/IEOldF12/blob/master/ie11.png?raw=true" />
 
@@ -28,3 +28,6 @@ https://github.com/Linrstudio/IEOldF12/tree/master/download
 
 ####参考资料（感谢） Thanks
 http://stackoverflow.com/questions/17871124/how-to-bring-back-browser-mode-in-ie11/17877416#17877416
+
+
+<img src="https://github.com/Linrstudio/IEOldF12/blob/master/ui-en.png?raw=true" />
