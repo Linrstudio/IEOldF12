@@ -1,31 +1,7 @@
-# 最新的 IE11 开发人员工具（F12工具）已经有了切换文档模式在选项（如下图），IEOldF12 不再开发和提供下载，请留意。
+### 最新的 IE11 开发人员工具（F12工具）已经有了切换文档模式在选项（如下图），IEOldF12 不再开发和提供下载，请留意。
 
 <img src="https://github.com/Linrstudio/IEOldF12/blob/master/ui.png?raw=true" />
 
-<s># IEOldF12
-===========
+我们为您提供了 IE-F12++ 来扩展 F12开发工具，让它有更多功能，您可以试试：
 
-将 IE11 开发人员工具（F12工具）切换到 旧版开发人员 （IE devtool）工具。
-
-Bring back “Browser mode” in IE11.
-It comes with old-fashioned F12 tool which allows to change browser modes. 
-
-##操作方法 how-to
-
-###切换到旧版F12 (Old)
-运行 IEOldF12 后，点击右边箭头图标，即可切换到旧版开发工具。切换后，点击主界面上的“启动 IE”。既可看到旧版开发工具，这时您可以进入您想调试的页面了。如下图：
-
-<img src="https://github.com/Linrstudio/IEOldF12/blob/master/ie11.png?raw=true" />
-
-###切换到新版F12 (New)
-在 IE11 网页中点右键，选择“检查元素”即可切换到 新版F12 工具。
-
-###系统要求 system require
-* Windows 7 IE11 pre
-* Windows 8.1 IE11 pre
-
-####参考资料（感谢） Thanks
-http://stackoverflow.com/questions/17871124/how-to-bring-back-browser-mode-in-ie11/17877416#17877416
-
-
-<img src="https://github.com/Linrstudio/IEOldF12/blob/master/ui-en.png?raw=true" /></s>
+[Download](https://github.com/Linrstudio/IE-F12-Plus-Plus/ 'Download')
